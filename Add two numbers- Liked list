@@ -1,4 +1,4 @@
-1. Add two numbers
+2. Add two numbers
 Solved -> Medium
 https://leetcode.com/problems/add-two-numbers/
 
@@ -28,8 +28,6 @@ Constraints:
 The number of nodes in each linked list is in the range [1, 100].
 0 <= Node.val <= 9
 It is guaranteed that the list represents a number that does not have leading zeros.
-
-Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
 
 SOLUTION:
 Progarmming language -> Java
